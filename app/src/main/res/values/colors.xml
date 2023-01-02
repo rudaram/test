@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="red">#FFFF0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="ripple">#c8c8c8</color>
+
+    <color name="color_363b4b">#363b4b</color>
+    <color name="color_5c70cb">#5c70cb</color>
+    <color name="color_758ae5">#758ae5</color>
+    <color name="color_868686">#868686</color>
+    <color name="color_8c8c8c">#8c8c8c</color>
+    <color name="color_8a8a8a">#8a8a8a</color>
+    <color name="color_a7a7a7">#a7a7a7</color>
+    <color name="color_c0c0c0">#c0c0c0</color>
+    <color name="color_c5c5c5">#c5c5c5</color>
+    <color name="color_e3e3e3">#e3e3e3</color>
+    <color name="color_17245f">#17245f</color>
+
+    <!--    업무-->
+    <color name="color_ffa800">#ffa800</color>
+    <color name="color_e47a46">#e47a46</color>
+    <color name="color_4eaa57">#4eaa57</color>
+    <color name="color_9b9b9b">#9b9b9b</color>
+
+    <!--login-->
+    <color name="login_btn_bg">#17245f</color>
+    <color name="naver_btn_bg">#03c75a</color>
+    <color name="kakao_btn_bg">#fee500</color>
+    <color name="bottom_text">#868686</color>
+    <color name="bottom_navi_text">#5c70cb</color>
+</resources>

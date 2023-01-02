@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTopBarView">
+        <attr name="topBar_title" format="string" />
+        <attr name="topBar_title_color" format="reference" />
+        <attr name="topBar_left_show" format="boolean" />
+        <attr name="topBar_right_show" format="boolean" />
+        <attr name="topBar_left_image" format="integer" />
+        <attr name="topBar_right_image" format="reference" />
+    </declare-styleable>
+</resources>

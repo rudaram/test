@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HTNS</string>
+    <string name="network_wait">Please wait...</string>
+</resources>
