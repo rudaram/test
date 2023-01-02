@@ -49,8 +49,6 @@ abstract class BaseActivity<B : ViewDataBinding, V : BaseViewModel> : AppCompatA
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //테스트 커밋
-        Log.d("보리","뇸뇸")
     }
 
     override fun onDestroy() {
@@ -62,7 +60,6 @@ abstract class BaseActivity<B : ViewDataBinding, V : BaseViewModel> : AppCompatA
         val view: Snackbar =   Snackbar.make(findViewById(android.R.id.content), stringResourceId, Snackbar.LENGTH_LONG)
         view.setTextColor(ContextCompat.getColor(getContext(), R.color.white))
         view.show()
-        Log.d("보리","뇸뇸")
     }
 
     fun showSnackbar(str: String) {
